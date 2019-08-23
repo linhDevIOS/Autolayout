@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("add new code to gith")
         print("new item")
+        print("new item")
         // Do any additional setup after loading the view.
     }
 
